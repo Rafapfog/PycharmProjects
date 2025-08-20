@@ -1,0 +1,6 @@
+n1 = int(input("digite um valor: "))
+n2 = int(input("Digite outro valor: "))
+print(f"A soma entre {n1} e {n2} é igual a {n1+n2}")
+print(f"A multiplicação entre eles é igual a {n1*n2}")
+print(f"A divisão entre eles é {n1/n2:.2f}")
+print(f"A potência deles é igual a {n1**n2}")

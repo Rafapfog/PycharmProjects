@@ -1,0 +1,7 @@
+nome = input("qual é o seu nome? ")
+print(f"Prazer em te conhecer, {nome}")
+print(f"PRazer em te conhecer, {nome:<30}!")
+print(f"PRazer em te conhecer, {nome:>30}!")
+print(f"prazer em te conhecer {nome:-^20}!")
+print(f"prazer em te conhecer {nome:-<20}!")
+print(f"prazer em te conhecer {nome:->20}!")
